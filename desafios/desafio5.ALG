@@ -13,6 +13,6 @@ leia(minutos)
 horasmin <- minutos/60 + horas
 segundos <- horasmin*3600
 
-escreval("",horasmin,"horas é igual a",segundos,"segundos")
+escreval("",horasmin,"horas Ã© igual a",segundos,"segundos")
 
 Fimalgoritmo
